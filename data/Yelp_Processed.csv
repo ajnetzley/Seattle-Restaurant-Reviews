@@ -1,0 +1,463 @@
+,Name,Yelp Rating,Yelp Num Reviews,Yelp Address,Yelp Cost,Yelp Tags,Zip Code,Neighborhood
+0,The Pink Door,4.4,7010.0,"1919 Post Alley Seattle, WA 98101",$$,"['Italian', 'Wine Bars', 'Seafood']",98101,Downtown
+1,Nue,4.2,1462.0,"1519 14th Ave Seattle, WA 98122",$$,"['Tapas/Small Plates', 'Cocktail Bars', 'Breakfast & Brunch']",98122,Capitol Hill
+2,Biscuit Bitch,4.2,4731.0,"1909 1st Ave Seattle, WA 98101",$$,"['Breakfast & Brunch', 'Coffee & Tea', 'Southern']",98101,Downtown
+3,2120,4.3,629.0,"2120 6th Ave Seattle, WA 98121",$$$,"['New American', 'Cocktail Bars']",98121,Belltown
+4,Witness,4.2,915.0,"410 Broadway E Seattle, WA 98102",$$,"['Southern', 'Cocktail Bars']",98102,Capitol Hill
+5,The Walrus and the Carpenter,4.2,1887.0,"4743 Ballard Ave NW Seattle, WA 98107",$$$,"['Seafood', 'Tapas/Small Plates']",98107,Ballard
+6,Six Seven Restaurant,4.1,1258.0,"2411 Alaskan Way Seattle, WA 98121",$$$,"['New American', 'Seafood', 'Cocktail Bars']",98121,Belltown
+7,List,4.3,2102.0,"2226 1st Ave Seattle, WA 98121",$$,"['Tapas/Small Plates', 'Cocktail Bars', 'American']",98121,Belltown
+8,Tilikum Place Cafe,4.3,2272.0,"407 Cedar St Seattle, WA 98121",$$,"['New American', 'Breakfast & Brunch', 'Desserts']",98121,Belltown
+9,Elliott’s Oyster House,3.9,4357.0,"1201 Alaskan Way Pier 56 Seattle, WA 98101",$$$,['Seafood'],98101,Downtown
+10,Toulouse Petit Kitchen & Lounge,4,5027.0,"601 Queen Anne Ave N Seattle, WA 98109",$$,"['Cajun/Creole', 'Breakfast & Brunch', 'Seafood']",98109,Queen Anne/South Lake Union
+11,Shaker + Spear,4.4,1071.0,"2000 2nd Ave Seattle, WA 98121",$$,"['Seafood', 'New American', 'Breakfast & Brunch']",98121,Belltown
+13,The White Swan Public House,3.9,414.0,"1001 Fairview Ave N Seattle, WA 98109",$$,"['Bars', 'Seafood']",98109,Queen Anne/South Lake Union
+14,Pike Place Chowder,4.4,9065.0,"1530 Post Aly Ste 11 Seattle, WA 98101",$$,"['Seafood', 'Soup']",98101,Downtown
+15,Damn the Weather,3.8,563.0,"116 1st Ave S Seattle, WA 98104",$$,"['Cocktail Bars', 'New American']",98104,Chinatown
+16,Ishoni Yakiniku,4.5,269.0,"611 Broadway E Seattle, WA 98102",,"['Barbeque', 'Japanese']",98102,Capitol Hill
+17,Katsu-ya Seattle,4.4,286.0,"122 Westlake Ave N Seattle, WA 98109",$$,"['Sushi Bars', 'Japanese', 'Seafood']",98109,Queen Anne/South Lake Union
+18,Biang Biang Noodles,4.3,1209.0,"601 E Pike St Unit 100 Seattle, WA 98122",$$,"['Noodles', 'Szechuan']",98122,Capitol Hill
+19,Kedai Makan,4.2,1339.0,"1449 E Pine St Seattle, WA 98122",$$,"['Malaysian', 'Noodles', 'Bars']",98122,Capitol Hill
+20,Cascina Spinasse,4.4,1366.0,"1531 14th Ave Seattle, WA 98122",$$$,['Italian'],98122,Capitol Hill
+21,Radiator Whiskey,4.4,1417.0,"94 Pike St Ste 30 Seattle, WA 98101",$$,"['New American', 'Cocktail Bars', 'Comfort Food']",98101,Downtown
+22,Sawyer,4.4,475.0,"5309 22nd Ave NW Seattle, WA 98107",,['New American'],98107,Ballard
+24,How To Cook a Wolf,4.1,1110.0,"2208 Queen Anne Ave N Seattle, WA 98109",$$$,"['Italian', 'Tapas/Small Plates']",98109,Queen Anne/South Lake Union
+25,Taylor Shellfish Oyster Bar,4.1,778.0,"124 Republican St Seattle, WA 98109",$$,"['Seafood', 'Bars', 'American']",98109,Queen Anne/South Lake Union
+26,re:public,3.8,657.0,"429 Westlake Ave N Seattle, WA 98109",$$,"['New American', 'Bars']",98109,Queen Anne/South Lake Union
+27,Pasta Casalinga,4.6,301.0,"93 Pike St Ste 201 Seattle, WA 98101",$$,"['Italian', 'Pasta Shops']",98101,Downtown
+29,Some Random Bar,4.5,1189.0,"2604 1st Ave Seattle, WA 98121",$$,"['New American', 'Cocktail Bars', 'Breakfast & Brunch']",98121,Belltown
+30,Zig Zag Cafe,4.3,1128.0,"1501 Western Ave Ste 202 Seattle, WA 98101",$$$,"['New American', 'Cocktail Bars', 'Mediterranean']",98101,Downtown
+31,Pomodoro,4.5,538.0,"2366 Eastlake Ave E Seattle, WA 98102",$$,"['Italian', 'Spanish', 'Tapas/Small Plates']",98102,Capitol Hill
+32,Skalka,4.5,936.0,"77 Spring St Seattle, WA 98104",$$,"['Breakfast & Brunch', 'Georgian', 'Cafes']",98104,Chinatown
+33,Skillet Capitol Hill,3.9,2273.0,"1400 East Union St Seattle, WA 98122",$$,"['Breakfast & Brunch', 'New American']",98122,Capitol Hill
+34,Reckless Noodle House,4.5,439.0,"2519 S Jackson St Seattle, WA 98144",$$,"['Bars', 'Noodles', 'Asian Fusion']",98144,Other
+36,LOCAL Public Eatery,3.9,550.0,"404 Terry Ave N Seattle, WA 98109",$$,"['Bars', 'New American']",98109,Queen Anne/South Lake Union
+37,G.H. Pasta Co.,4.2,310.0,"2305 6th Ave Seattle, WA 98121",$$,"['Italian', 'Pasta Shops']",98121,Belltown
+38,Meet Korean BBQ,4.3,342.0,"500 E Pike St Seattle, WA 98122",$$$$,"['Barbeque', 'Korean']",98122,Capitol Hill
+39,Bar Harbor,4.1,293.0,"400 Fairview Ave N Ste 105 Seattle, WA 98109",$$,"['Seafood', 'Cocktail Bars']",98109,Queen Anne/South Lake Union
+40,Von’s 1000 Spirits,4.5,2986.0,"1225 1st Ave Seattle, WA 98101",$$,"['New American', 'Burgers', 'Pubs']",98101,Downtown
+41,Olmstead,4,274.0,"314 Broadway E Seattle, WA 98102",$$,"['New American', 'Cocktail Bars']",98102,Capitol Hill
+42,Stateside,4.2,1017.0,"300 E Pike St Ste 1200 Seattle, WA 98122",$$,"['Asian Fusion', 'New American']",98122,Capitol Hill
+43,Tanoor,4.5,235.0,"803 Dexter Ave N Seattle, WA 98109",$$,"['Lebanese', 'Mediterranean', 'Halal']",98109,Queen Anne/South Lake Union
+44,Marination Ma Kai,4.1,1278.0,"1660 Harbor Ave SW Seattle, WA 98126",$$,"['Korean', 'Hawaiian', 'Asian Fusion']",98126,Other
+45,Old Stove Brewing,4.3,1098.0,"1901 Western Ave Ste A Seattle, WA 98101",$$,"['Brewpubs', 'Seafood', 'Burgers']",98101,Downtown
+46,Canlis,4.1,1750.0,"2576 Aurora Ave N Seattle, WA 98109",$$$$,"['New American', 'Seafood']",98109,Queen Anne/South Lake Union
+47,Paseo,4.4,5531.0,"4225 Fremont Ave N Seattle, WA 98103",$$,"['Caribbean', 'Cuban', 'Sandwiches']",98103,Fremont/Wallingford
+48,84 Yesler,4.7,122.0,"84 Yesler Way Seattle, WA 98104",Unclaimed,['Italian'],98104,Chinatown
+49,Hanok,4.6,144.0,"4021 E Madison St Seattle, WA 98112",$$,"['Korean', 'Asian Fusion']",98112,Capitol Hill
+50,Di Fiora,4.3,612.0,"1320 University St Ste 1 Seattle, WA 98101",$$,"['Asian Fusion', 'Cocktail Bars', 'Italian']",98101,Downtown
+51,COMMUNION Restaurant and Bar,4.3,367.0,"2350 E Union St Seattle, WA 98122",,"['Soul Food', 'Soup', 'Cocktail Bars']",98122,Capitol Hill
+52,Gold Bar,3.3,27.0,"1416 E Olive Way Seattle, WA 98122",,['Bars'],98122,Capitol Hill
+53,The Butcher’s Table,4.1,696.0,"2121 Westlake Ave Seattle, WA 98121",$$$$,"['Steakhouses', 'Butcher', 'Wine Bars']",98121,Belltown
+54,D’ La Santa,4.6,438.0,"2359 10th Ave E Seattle, WA 98102",$$,"['Mexican', 'Steakhouses']",98102,Capitol Hill
+55,Hannyatou,4.7,67.0,"1060 N 39th St Seattle, WA 98103",,"['Japanese', 'Cocktail Bars']",98103,Fremont/Wallingford
+57,Cactus Restaurants,4.1,993.0,"350 Terry Ave N Seattle, WA 98109",$$,"['Tex-Mex', 'Mexican', 'Breakfast & Brunch']",98109,Queen Anne/South Lake Union
+58,Palisade,3.9,1742.0,"2601 W Marina Pl Elliott Bay Marina Seattle, WA 98199",$$$,"['Seafood', 'Steakhouses', 'American']",98199,Other
+59,Musang Seattle,4.4,511.0,"2524 Beacon Ave S Seattle, WA 98144",$$,"['Filipino', 'Gluten-Free']",98144,Other
+60,Cask & Trotter,4.1,651.0,"711 Westlake Ave N Seattle, WA 98109",$$,"['Barbeque', 'Bars', 'American']",98109,Queen Anne/South Lake Union
+63,Stone Korean Restaurant,4.1,261.0,"900 Dexter Ave N Seattle, WA 98109",$$,"['Korean', 'Barbeque', 'Asian Fusion']",98109,Queen Anne/South Lake Union
+64,Piroshky Piroshky,4.3,7560.0,"1908 Pike Pl Seattle, WA 98101",$,"['Bakeries', 'Russian']",98101,Downtown
+65,19 GOLD,4.5,938.0,"3601 Fremont Ave N Ste 101 Seattle, WA 98103",$$,"['Taiwanese', 'Chinese', 'Bubble Tea']",98103,Fremont/Wallingford
+66,Karachi Cowboys,4.1,59.0,"1517 12th Ave Ste 100 Seattle, WA 98122",$$,"['Pakistani', 'Indian', 'Beer, Wine & Spirits']",98122,Capitol Hill
+67,Taurus Ox,4.6,446.0,"903 19th Ave E Seattle, WA 98122",$$,"['Laotian', 'Asian Fusion', 'Noodles']",98122,Capitol Hill
+68,Dead Line,4.4,406.0,"114 1st Ave S Seattle, WA 98104",$$,"['Cocktail Bars', 'Venues & Event Spaces', 'New American']",98104,Chinatown
+69,Paju,4.5,300.0,"11 Mercer St Seattle, WA 98109",$$,['Korean'],98109,Queen Anne/South Lake Union
+70,Rondo,4.4,528.0,"224 Broadway E Seattle, WA 98102",$$,"['Sushi Bars', 'Izakaya']",98102,Capitol Hill
+72,Xi’an Noodles,4.2,1108.0,"5259 University Way NE Seattle, WA 98105",$$,"['Chinese', 'Noodles']",98105,University District
+73,Ramen Danbo,4.3,2104.0,"1222 E Pine St Ste A Seattle, WA 98122",$$,"['Ramen', 'Noodles']",98122,Capitol Hill
+74,A + Hong Kong Kitchen,4.2,705.0,"419 6th Ave S Seattle, WA 98104",Unclaimed,"['Cantonese', 'Hong Kong Style Cafe']",98104,Chinatown
+75,Karaage Setsuna,4.4,491.0,"2429 2nd Ave Seattle, WA 98121",$$,"['Japanese', 'Hawaiian']",98121,Belltown
+77,Asadero Ballard,4.4,1237.0,"5405 Leary Ave NW Seattle, WA 98107",$$,"['Mexican', 'Steakhouses']",98107,Ballard
+78,Marination,3.8,358.0,"2000 6th Ave Amazon Doppler Seattle, WA 98121",$$,"['Asian Fusion', 'Korean', 'Seafood']",98121,Belltown
+79,Intermezzo Carmine,4.3,623.0,"411 1st Ave S Seattle, WA 98104",$$$,['Italian'],98104,Chinatown
+80,Mamnoon,3.9,1156.0,"1508 Melrose Ave Seattle, WA 98122",$$,"['Lebanese', 'Persian/Iranian', 'Syrian']",98122,Capitol Hill
+81,Mala & Satay,4.2,85.0,"224 Fairview Ave N Seattle, WA 98109",$$,['Vietnamese'],98109,Queen Anne/South Lake Union
+82,Lola,4.1,4299.0,"2000 B 4th Ave Seattle, WA 98121",$$,"['Greek', 'Breakfast & Brunch']",98121,Belltown
+83,iconiq,4.3,143.0,"1421 31st Ave S Seattle, WA 98144",$$$,"['French', 'Japanese']",98144,Other
+84,Soju Anju Bar,3.7,161.0,"1621 12th Ave Seattle, WA 98122",$$,"['Korean', 'Bars']",98122,Capitol Hill
+86,Harbor City Restaurant,3.9,2078.0,"707 S King St Seattle, WA 98104",$$,"['Barbeque', 'Dim Sum', 'Cantonese']",98104,Chinatown
+87,Citizen,3.8,1135.0,"706 Taylor Ave N Seattle, WA 98109",Unclaimed,"['Creperies', 'Coffee & Tea', 'Breakfast & Brunch']",98109,Queen Anne/South Lake Union
+88,Tsukushinbo,4.2,1035.0,"515 S Main St Seattle, WA 98104",$$,"['Japanese', 'Sushi Bars', 'Seafood']",98104,Chinatown
+89,Mike’s Noodle House,4,1412.0,"418 Maynard Ave S Seattle, WA 98104",$$,"['Cantonese', 'Noodles']",98104,Chinatown
+90,Meet the Moon,4,708.0,"120 Lakeside Ave Seattle, WA 98122",$$,"['Breakfast & Brunch', 'Bars', 'Comfort Food']",98122,Capitol Hill
+91,Shiro’s,4.3,2628.0,"2401 2nd Ave Seattle, WA 98121",$$$$,"['Sushi Bars', 'Japanese']",98121,Belltown
+92,Tacos Chukis,4.3,547.0,"832 Dexter Ave N Seattle, WA 98109",$,"['Tacos', 'Sandwiches']",98109,Queen Anne/South Lake Union
+93,Copine,4.5,239.0,"6460 24th Ave NW Seattle, WA 98107",$$$$,"['New American', 'French']",98107,Ballard
+94,Violet,4.5,159.0,"1734 12th Ave Seattle, WA 98122",$$$,['New American'],98122,Capitol Hill
+95,Rasai Indian,3.8,258.0,"473 N 36th St Seattle, WA 98103",,"['Indian', 'Cocktail Bars', 'Tapas/Small Plates']",98103,Fremont/Wallingford
+96,Fat’s Fried Chicken & Waffles,4.3,816.0,"2726 E Cherry St Seattle, WA 98122",$$,"['Southern', 'Soul Food', 'Waffles']",98122,Capitol Hill
+97,Dough Zone - Seattle Pine St.,4.2,1189.0,"815 Pine St Seattle, WA 98101",$$,"['Shanghainese', 'Dim Sum', 'Noodles']",98101,Downtown
+98,Kin Len Thai Night Bites,4.3,682.0,"3517 Fremont Ave N Seattle, WA 98103",$$,"['Thai', 'Cocktail Bars', 'Noodles']",98103,Fremont/Wallingford
+99,Baegopa,3.8,217.0,"509 7th Ave S Seattle, WA 98104",$$$,"['Korean', 'Barbeque']",98104,Chinatown
+101,Cafe Turko,4.2,1305.0,"750 N 34th St Seattle, WA 98103",$$,"['Halal', 'Turkish', 'Mediterranean']",98103,Fremont/Wallingford
+104,Cookie’s Country Chicken,4.3,188.0,"1744 NW Market St Seattle, WA 98107",$$,['Chicken Shop'],98107,Ballard
+106,Eden Hill Restaurant,4.4,320.0,"2209 Queen Anne Ave N Seattle, WA 98109",$$$$,"['New American', 'Desserts', 'Cocktail Bars']",98109,Queen Anne/South Lake Union
+107,Finch & Pine,4.2,38.0,"711 Bellevue Ave E Ste 100 Seattle, WA 98102",$$,"['Cafes', 'Cocktail Bars', 'Vegetarian']",98102,Capitol Hill
+108,Bentoful,4.5,42.0,"501 Fairview Ave N Seattle, WA 98109",Unclaimed,"['Korean', 'Asian Fusion']",98109,Queen Anne/South Lake Union
+109,Altura,4.4,661.0,"617 Broadway E Seattle, WA 98102",$$$$,['Italian'],98102,Capitol Hill
+110,Lionhead,4,341.0,"618 Broadway E Seattle, WA 98102",$$,"['Szechuan', 'Cocktail Bars', 'Noodles']",98102,Capitol Hill
+111,Taylor Shellfish Farms - Seattle,4.2,1347.0,"1521 Melrose Ave Seattle, WA 98122",$$$,"['Seafood', 'Live/Raw Food']",98122,Capitol Hill
+112,Son of A Butcher,3.7,204.0,"2236 Eastlake Ave E Seattle, WA 98102",$$,"['Korean', 'Barbeque']",98102,Capitol Hill
+113,Quinn’s,4.1,1349.0,"1001 E Pike St Seattle, WA 98122",$$,"['New American', 'Pubs']",98122,Capitol Hill
+114,Cinque Terre Ristorante,4.1,658.0,"2001 Westlake Ave Seattle, WA 98121",$$$,"['Italian', 'Seafood', 'Pizza']",98121,Belltown
+115,The Harvest Vine,4.3,708.0,"2701 E Madison St Seattle, WA 98112",Unclaimed,"['Tapas Bars', 'Spanish', 'Basque']",98112,Capitol Hill
+116,Dough Zone - International District,4.2,1457.0,"504 5th Ave S Ste 109 Seattle, WA 98104",$$,"['Shanghainese', 'Noodles']",98104,Chinatown
+117,Due’ Cucina Italiana - Capitol Hill,4.3,794.0,"412 Broadway E Seattle, WA 98102",$$,"['Italian', 'Pasta Shops']",98102,Capitol Hill
+118,Le Coin,4.4,506.0,"4201 Fremont Ave N Seattle, WA 98103",$$$,"['Seafood', 'French', 'New American']",98103,Fremont/Wallingford
+119,Azuki Handmade Japanese Udon Noodles,4.3,216.0,"2711 E Madison St Seattle, WA 98112",$$,"['Japanese', 'Noodles']",98112,Capitol Hill
+120,Bottlehouse,4.5,396.0,"1416 34th Ave Seattle, WA 98122",$$,"['Wine Bars', 'Tapas/Small Plates']",98122,Capitol Hill
+121,Meekong Bar,4.3,570.0,"2525 4th Ave Seattle, WA 98121",$$,"['Vietnamese', 'Asian Fusion', 'Soup']",98121,Belltown
+124,Taku,3.8,231.0,"706 E Pike St Seattle, WA 98122",$$,"['Izakaya', 'Bars']",98122,Capitol Hill
+125,Birch,4.3,25.0,"1001 Fairview Ave N Ste 2250 Seattle, WA 98109",,"['New American', 'Seafood']",98109,Queen Anne/South Lake Union
+126,S/T Hooligans,4.7,431.0,"4354 Leary Way NW Seattle, WA 98107",$$,"['Cajun/Creole', 'Burgers', 'New American']",98107,Ballard
+127,Tamarind Tree,3.9,1620.0,"1036 S Jackson St Ste A Seattle, WA 98104",$$,"['Vietnamese', 'Noodles']",98104,Chinatown
+128,Gan Bei,4.2,109.0,"670 S Weller St Seattle, WA 98104",$$,"['Comfort Food', 'Asian Fusion', 'Hong Kong Style Cafe']",98104,Chinatown
+129,Cafe Flora,4,1567.0,"2901 E Madison St Seattle, WA 98112",$$,"['Vegetarian', 'Vegan', 'Gluten-Free']",98112,Capitol Hill
+131,Blotto,4.7,75.0,"1830 12th Ave Seattle, WA 98122",,"['Pizza', 'Wine Bars']",98122,Capitol Hill
+132,Ba Bar,3.7,1521.0,"550 12th Ave Seattle, WA 98122",$$,"['Vietnamese', 'Cocktail Bars']",98122,Capitol Hill
+134,ChungChun Rice Hot Dog,4.5,595.0,"502 S King St Seattle, WA 98104",$,"['Korean', 'Hot Dogs']",98104,Chinatown
+135,Seoul Bowl & Bar,4.4,157.0,"722 12th ave Seattle, WA 98122",$$,"['Food Trucks', 'Korean']",98122,Capitol Hill
+136,The Hart and The Hunter,4,272.0,"111 Pine St Seattle, WA 98101",$$,"['Breakfast & Brunch', 'Cocktail Bars', 'Diners']",98101,Downtown
+137,Addo 206,4.5,8.0,"1417 Elliott Ave W Seattle, WA 98119",,"['Puerto Rican', 'American']",98119,Other
+138,Herb & Bitter Public House,4,391.0,"516 Broadway E Seattle, WA 98102",$$,"['Cocktail Bars', 'New American', 'Gastropubs']",98102,Capitol Hill
+139,Phnom Penh Noodle House,4.3,154.0,"913 S Jackson St Ste A Seattle, WA 98104",$$,"['Noodles', 'Cambodian']",98104,Chinatown
+141,Kizuki Ramen & Izakaya,3.8,1531.0,"320 E Pine St Seattle, WA 98122",$$,"['Ramen', 'Izakaya']",98122,Capitol Hill
+142,Momiji,4.1,1848.0,"1522 12th Ave Seattle, WA 98122",$$,"['Japanese', 'Sushi Bars', 'Asian Fusion']",98122,Capitol Hill
+143,Ben Paris,4.1,503.0,"130 Pike St Seattle, WA 98101",$$,"['New American', 'Cocktail Bars', 'Breakfast & Brunch']",98101,Downtown
+145,Portage Bay Cafe - Roosevelt,3.9,2846.0,"4130 Roosevelt Way NE Seattle, WA 98105",$$,"['New American', 'Breakfast & Brunch', 'Cafes']",98105,University District
+146,Monsoon Seattle,3.8,779.0,"615 19th Ave E Seattle, WA 98112",Unclaimed,"['Vietnamese', 'Asian Fusion', 'Bars']",98112,Capitol Hill
+148,Smith,3.8,923.0,"332 15th Ave E Seattle, WA 98112",$$,"['Bars', 'New American', 'Breakfast & Brunch']",98112,Capitol Hill
+149,Local 360,3.9,3239.0,"2234 1st Ave Seattle, WA 98121",$$,"['New American', 'Cocktail Bars']",98121,Belltown
+150,Rocco’s,4.2,1838.0,"2312 2nd Ave Seattle, WA 98121",$$,"['Bars', 'Pizza']",98121,Belltown
+151,Wild Ginger,3.6,1693.0,"1401 3rd Ave Seattle, WA 98101",$$,"['Thai', 'Pan Asian', 'Wine Bars']",98101,Downtown
+154,Terra Plata,3.8,1179.0,"1501 Melrose Ave Seattle, WA 98122",$$$,"['New American', 'Cocktail Bars', 'Wine Bars']",98122,Capitol Hill
+155,Kamonegi,4.2,495.0,"1054 N 39th St Seattle, WA 98103",$$,"['Japanese', 'Noodles']",98103,Fremont/Wallingford
+156,Dacha Diner,4.5,106.0,"1416 E Olive Way Seattle, WA 98122",$$,"['Modern European', 'Russian', 'Georgian']",98122,Capitol Hill
+157,The Alley,4.3,86.0,"4509 California Ave SW Seattle, WA 98116",$$,"['Cocktail Bars', 'Speakeasies']",98116,Other
+158,South Lake Kitchen + Bar,3.8,21.0,"2125 Terry Ave Seattle, WA 98121",$$,"['New American', 'Lounges', 'Breakfast & Brunch']",98121,Belltown
+160,Parish Northwest,3.8,162.0,"5327 Ballard Ave NW Ste A Seattle, WA 98107",$$$,"['Southern', 'Cajun/Creole', 'Pop-Up Restaurants']",98107,Ballard
+161,Il Nido,4.4,253.0,"2717 61st Ave SW The Alki Homestead Seattle, WA 98116",Unclaimed,['Italian'],98116,Other
+162,Sisters And Brothers,3.8,769.0,"544 Elliott Ave W Seattle, WA 98119",$$,"['Bars', 'Sandwiches', 'Chicken Shop']",98119,Other
+163,Kokkaku,4.1,325.0,"2208 N 45th St Seattle, WA 98103",$$$,"['New American', 'Japanese', 'Steakhouses']",98103,Fremont/Wallingford
+164,Haidilao Hot Pot,4.4,648.0,"600 Pine St Ste 355 Seattle, WA 98101",$$$,"['Hot Pot', 'Seafood', 'Asian Fusion']",98101,Downtown
+165,Champagne Diner,4.1,132.0,"945 Elliott Ave W Ste 201 Seattle, WA 98119",$$,"['Cocktail Bars', 'Diners']",98119,Other
+166,Daniel’s Broiler,3.6,989.0,"809 Fairview Pl N Seattle, WA 98109",$$$$,"['Steakhouses', 'Seafood']",98109,Queen Anne/South Lake Union
+167,Sizzle&Crunch,4.2,478.0,"1313 NE 42nd St Seattle, WA 98105",$$,"['Vietnamese', 'Sandwiches', 'Asian Fusion']",98105,University District
+168,Cortina,3.9,241.0,"621 Union St Seattle, WA 98101",$$$,['Italian'],98101,Downtown
+169,Jack’s Chicken Shack,4.1,42.0,"228 9th Ave N Seattle, WA 98109",,"['Southern', 'Chicken Shop']",98109,Queen Anne/South Lake Union
+170,Charlotte Restaurant & Lounge,4.2,187.0,"809 5th Ave Seattle, WA 98104",$$$$,"['New American', 'Lounges', 'Seafood']",98104,Chinatown
+172,AQUA by El Gaucho,3.9,1108.0,"2801 Alaskan Way Pier 70 Seattle, WA 98121",$$$$,['Seafood'],98121,Belltown
+173,Niku Niku Japanese Barbecue,4.6,287.0,"13200 Aurora Ave N Ste G Seattle, WA 98133",,"['Barbeque', 'Japanese']",98133,Bitter Lake
+174,Drunken Chicken,4.2,37.0,"4401 Wallingford Ave N Seattle, WA 98103",,"['Comfort Food', 'Chicken Shop', 'Hainan']",98103,Fremont/Wallingford
+175,A+ Hong Kong Restaurant,4.4,145.0,"667 S King St Seattle, WA 98104",$$,"['Hong Kong Style Cafe', 'Breakfast & Brunch', 'Sandwiches']",98104,Chinatown
+177,wa’z,4.5,178.0,"411 Cedar St Seattle, WA 98121",$$$$,['Japanese'],98121,Belltown
+178,Bar Cotto,4.5,376.0,"1546 15th Ave Seattle, WA 98122",$$,"['Bars', 'Pizza', 'Italian']",98122,Capitol Hill
+179,Teinei,3.8,315.0,"1256 Republican St South Lake Union Seattle, WA 98109",$$,"['Ramen', 'Izakaya', 'Japanese Curry']",98109,Queen Anne/South Lake Union
+182,Market Grill,4.3,669.0,"1509 Pike Pl Ste 3 Seattle, WA 98101",$$,"['Seafood', 'Sandwiches', 'Soup']",98101,Downtown
+183,Star Fusion & Bar,4.7,212.0,"538 Broadway E Seattle, WA 98102",$$,"['Ramen', 'Cocktail Bars', 'Sushi Bars']",98102,Capitol Hill
+184,Le Caviste,4.6,311.0,"1919 7th Ave Seattle, WA 98101",$$,"['Wine Bars', 'French']",98101,Downtown
+185,The Crab Pot,3.1,2647.0,"1301 Alaskan Way Pier 57 Seattle, WA 98101",$$$,['Seafood'],98101,Downtown
+186,mkt.,4.4,358.0,"2108 N 55th St Seattle, WA 98103",$$$,"['New American', 'Italian']",98103,Fremont/Wallingford
+187,Noi Thai Cuisine,4,1224.0,"1303 1st Ave Harbor Steps Building Seattle, WA 98101",$$,"['Thai', 'Cocktail Bars']",98101,Downtown
+188,Ma’ono Fried Chicken,3.9,449.0,"4626 26th Ave NE Seattle, WA 98105",$$,"['Sandwiches', 'Chicken Shop', 'Burgers']",98105,University District
+189,JOEY Kitchen At University Village,3.9,1146.0,"2603 NE 46th St Seattle, WA 98105",$$,"['New American', 'Steakhouses', 'Wine Bars']",98105,University District
+190,Bad Bishop,4.5,72.0,"704 1st Ave Seattle, WA 98104",,"['Cocktail Bars', 'American']",98104,Chinatown
+191,Black Bottle,3.9,1173.0,"2600 1st Ave Seattle, WA 98121",$$,"['New American', 'Gastropubs', 'Tapas/Small Plates']",98121,Belltown
+192,Dumpling The Noodle,4.4,440.0,"1723 N 45th St Seattle, WA 98103",$$,"['Noodles', 'Chinese']",98103,Fremont/Wallingford
+194,How to Cook a Wolf,4.1,1110.0,"2208 Queen Anne Ave N Seattle, WA 98109",$$$,"['Italian', 'Tapas/Small Plates']",98109,Queen Anne/South Lake Union
+195,Taneda Sushi in Kaiseki,4.9,256.0,"219 Broadway E Ste 14 Seattle, WA 98102",$$$$,"['Sushi Bars', 'Japanese']",98102,Capitol Hill
+196,The Carlile Room,4,528.0,"820 Pine St Seattle, WA 98101",$$,"['New American', 'Bars', 'Burgers']",98101,Downtown
+197,Art of The Table,4.2,738.0,"3801 Stone Way N Seattle, WA 98103",$$$$,['New American'],98103,Fremont/Wallingford
+198,Local Tide,4.6,278.0,"401 N 36th St Ste 103 Seattle, WA 98103",$$,"['Seafood', 'Sandwiches', 'Salad']",98103,Fremont/Wallingford
+199,Qin Xi’an Noodles,4,449.0,"1203 Pine St Seattle, WA 98101",$$,"['Chinese', 'Noodles', 'Soup']",98101,Downtown
+200,Mangosteen,4.4,78.0,"1314 S Jackson St Seattle, WA 98144",,"['Chicken Wings', 'Juice Bars & Smoothies', 'Burgers']",98144,Other
+201,Bangrak Market,4.2,1376.0,"2319 2nd Ave Seattle, WA 98121",$$,"['Bars', 'Thai', 'Tapas/Small Plates']",98121,Belltown
+202,Cafe Opla,4.1,318.0,"2200 Alaskan Way Ste 120 Seattle, WA 98121",$$,"['Coffee & Tea', 'Breakfast & Brunch', 'Cafes']",98121,Belltown
+203,El Grito Taqueria,3.9,275.0,"234 Fairview Ave N Seattle, WA 98109",$$,['Mexican'],98109,Queen Anne/South Lake Union
+206,Oliver’s Lounge,4,189.0,"405 Olive Way Seattle, WA 98101",$$,"['Lounges', 'Cocktail Bars', 'American']",98101,Downtown
+208,Nana’s Green Tea,4.3,1406.0,"1007 Stewart St Ste 103 Seattle, WA 98101",$$,"['Japanese', 'Desserts', 'Cafes']",98101,Downtown
+209,Man vs Fries,3.2,56.0,"4253 22nd Ave W Seattle, WA 98199",,"['Mexican', 'Pop-Up Restaurants']",98199,Other
+213,Ristorante Machiavelli,4.1,977.0,"1215 Pine St Seattle, WA 98101",$$,"['Italian', 'Pizza', 'Bars']",98101,Downtown
+214,Wood Shop BBQ,4.5,709.0,"2513 S Jackson St Seattle, WA 98144",$$,"['Barbeque', 'Sandwiches', 'Beer, Wine & Spirits']",98144,Other
+215,Mr. West Cafe Bar,4.1,749.0,"720 Olive Way Ste 103 Seattle, WA 98101",$$,"['Bars', 'Cafes', 'Breakfast & Brunch']",98101,Downtown
+216,Bounty Kitchen Denny Triangle,4.1,96.0,"801 Lenora St Seattle, WA 98121",$$,"['Breakfast & Brunch', 'Salad', 'Wine Bars']",98121,Belltown
+219,Tamari Bar,4.2,625.0,"500 E Pine St Seattle, WA 98122",$$,['Izakaya'],98122,Capitol Hill
+220,The Backdoor,3.8,329.0,"462 N 36th St Seattle, WA 98103",$$,"['New American', 'Speakeasies', 'Cocktail Bars']",98103,Fremont/Wallingford
+221,Morfire,4.4,272.0,"1806 12th Ave Ste 100 Seattle, WA 98122",$$,"['Thai', 'Hot Pot', 'Bars']",98122,Capitol Hill
+222,Grappa,4.2,433.0,"2 W Boston St Seattle, WA 98109",$$$,"['Mediterranean', 'Lounges', 'Wine Bars']",98109,Queen Anne/South Lake Union
+223,HoneyHole Sandwiches,4.2,1622.0,"703 E Pike St Seattle, WA 98122",$$,"['Bars', 'Sandwiches']",98122,Capitol Hill
+224,Betty,3.9,407.0,"1507 Queen Anne Ave N Seattle, WA 98109",$$,"['New American', 'Specialty Food', 'Cocktail Bars']",98109,Queen Anne/South Lake Union
+225,Moon Tree Sushi And Tapas,4.5,399.0,"516 1st Ave N Seattle, WA 98109",$$,"['Sushi Bars', 'Japanese', 'Tapas Bars']",98109,Queen Anne/South Lake Union
+226,Habitant,4.5,66.0,"500 Pine St Seattle, WA 98101",$$,"['Tapas/Small Plates', 'Cocktail Bars']",98101,Downtown
+227,Kona Kitchen - Seattle,4,1234.0,"8501 5th Ave NE Seattle, WA 98115",$$,"['Hawaiian', 'Breakfast & Brunch', 'Japanese']",98115,Other
+229,Harry’s Fine Foods,4.2,252.0,"601 Bellevue Ave E Seattle, WA 98102",$$,['New American'],98102,Capitol Hill
+232,The Ballard Cut,4.6,239.0,"5313 Ballard Ave NW Seattle, WA 98107",$$$,"['New American', 'Wine Bars', 'Whiskey Bars']",98107,Ballard
+233,Eve Fremont,4.2,308.0,"704 N 34th St Seattle, WA 98103",$$,['New American'],98103,Fremont/Wallingford
+234,Spice Waala,4.5,276.0,"340 15th Ave E Ste 202 Seattle, WA 98112",$,"['Indian', 'Street Vendors']",98112,Capitol Hill
+235,Windy City Pie,4.2,617.0,"5918 Phinney Ave N Seattle, WA 98103",$$,"['Pizza', 'Bars', 'Italian']",98103,Fremont/Wallingford
+237,Aerlume,4.1,298.0,"2003 Western Ave Ste C Seattle, WA 98121",$$$$,"['New American', 'Desserts', 'Salad']",98121,Belltown
+238,Hello Em Viet Coffee & Roastery,4.5,377.0,"1227 S Weller St Seattle, WA 98144",Unclaimed,"['Coffee Roasteries', 'Vietnamese', 'Breakfast & Brunch']",98144,Other
+239,Bounty Kitchen,4.1,57.0,"550 19th Ave E Seattle, WA 98112",,"['Salad', 'Sandwiches', 'Breakfast & Brunch']",98112,Capitol Hill
+240,Carmine’s,4.3,623.0,"411 1st Ave S Seattle, WA 98104",$$$,['Italian'],98104,Chinatown
+247,Japonessa Sushi Cocina,4.1,5311.0,"1400 1st Ave Seattle, WA 98101",$$,"['Japanese', 'Sushi Bars', 'Cocktail Bars']",98101,Downtown
+259,Din Tai Fung,4.2,2675.0,"2621 NE 46th St Seattle, WA 98105",$$,"['Taiwanese', 'Shanghainese', 'Dim Sum']",98105,University District
+271,Ten Seconds Yunnan Rice Noodle,4,12.0,"516 S Jackson St Seattle, WA 98104",Unclaimed,"['Chinese', 'Noodles']",98104,Chinatown
+272,Duke’s Seafood,4,1308.0,"1111 Fairview Ave N Seattle, WA 98109",$$,"['Seafood', 'Burgers', 'Fish & Chips']",98109,Queen Anne/South Lake Union
+274,The Third Place,3.8,146.0,"6504 20th Ave NE Seattle, WA 98115",Unclaimed,"['Pubs', 'American', 'Greek']",98115,Other
+280,Musashi’s,4.1,1295.0,"1400 N 45th St Seattle, WA 98103",$$,"['Sushi Bars', 'Japanese']",98103,Fremont/Wallingford
+285,Bok a Bok Fried Chicken,3.6,476.0,"1521 SW 98th St Ste D Seattle, WA 98106",$$,"['Chicken Shop', 'Chicken Wings', 'Sandwiches']",98106,Other
+296,Tian Fu,4.1,217.0,"300 NE Northgate Way Seattle, WA 98125",$$,"['Chinese', 'Seafood', 'Soup']",98125,Northgate
+306,Sam’s Tavern,3.2,380.0,"400 9th Ave N Seattle, WA 98109",$$,"['Burgers', 'Sports Bars', 'Dive Bars']",98109,Queen Anne/South Lake Union
+319,Afghan Cuisine,4.4,456.0,"2301 N 45th St Seattle, WA 98103",Unclaimed,"['Afghan', 'Vegan', 'Vegetarian']",98103,Fremont/Wallingford
+321,Due’ Cucina Italiana - Roosevelt,4.2,103.0,"1201 NE 65th St Seattle, WA 98115",$$,"['Italian', 'Pasta Shops']",98115,Other
+326,Bai Tong Thai Restaurant,4,751.0,"1121 E Pike St Seattle, WA 98122",$$,"['Thai', 'Cafes', 'Cocktail Bars']",98122,Capitol Hill
+327,Mioposto,4,334.0,"3426 NE 55th St Seattle, WA 98105",$$,"['Italian', 'Pizza', 'Breakfast & Brunch']",98105,University District
+337,FOB Poke Bar,4.7,1006.0,"220 Blanchard St Seattle, WA 98121",$$,"['Poke', 'Salad', 'Hawaiian']",98121,Belltown
+348,Novilhos Brazilian Steak House,4,239.0,"901 Fairview Ave N Seattle, WA 98109",$$$,"['Steakhouses', 'Brazilian', 'Buffets']",98109,Queen Anne/South Lake Union
+353,B-Bar,3.7,1521.0,"550 12th Ave Seattle, WA 98122",$$,"['Vietnamese', 'Cocktail Bars']",98122,Capitol Hill
+354,Dumpling & Noodle,4.4,440.0,"1723 N 45th St Seattle, WA 98103",$$,"['Noodles', 'Chinese']",98103,Fremont/Wallingford
+365,Little Ting’s Dumplings and Clay Pot,3.8,402.0,"14411 Greenwood Ave N Seattle, WA 98133",$$,"['Chinese', 'Soup', 'Salad']",98133,Bitter Lake
+371,The Fry Guys,4.3,46.0,"1760 1st Ave S Seattle, WA 98134",$$,"['Southern', 'Cheesesteaks', 'Fast Food']",98134,Other
+377,Queen Bee Cafe,4.4,411.0,"2200 E Madison St Ste B Seattle, WA 98112",$,['Cafes'],98112,Capitol Hill
+379,Happy Lamb Hot Pot,4.5,206.0,"609 S Weller St Seattle, WA 98104",$$$,"['Hot Pot', 'Chinese', 'Mongolian']",98104,Chinatown
+380,Shake Shack,3,845.0,"2115 Westlake Ave Seattle, WA 98121",$$,"['Fast Food', 'American', 'Burgers']",98121,Belltown
+385,HardWok Cafe,3.8,475.0,"1207 S Jackson St Ste 111B Seattle, WA 98144",$,"['Taiwanese', 'Chinese', 'Desserts']",98144,Other
+393,Ezell’s Famous Chicken,3.5,888.0,"501 23rd Ave Seattle, WA 98122",$$,"['Southern', 'Chicken Shop', 'Comfort Food']",98122,Capitol Hill
+395,Araya’s Place,4.3,495.0,"5240 University Way NE Seattle, WA 98105",$$,"['Thai', 'Vegan', 'Vegetarian']",98105,University District
+396,The French Bakery,4.3,674.0,"2507 4th Ave Centennial Tower and Court Apartments Seattle, WA 98121",$$,"['Cafes', 'Patisserie/Cake Shop', 'Macarons']",98121,Belltown
+402,Katsu Burger,4.2,916.0,"6538 4th Ave S Seattle, WA 98108",$$,"['Burgers', 'Japanese']",98108,Other
+405,Ironsteak,3.9,291.0,"628 S Weller St Seattle, WA 98104",$$,"['Steakhouses', 'Teppanyaki']",98104,Chinatown
+407,Kauai Family Restaurant,4.4,688.0,"6324 6th Ave S Seattle, WA 98108",Unclaimed,"['Hawaiian', 'Noodles', 'Soup']",98108,Other
+418,Sizzling Pot King,4.2,142.0,"660 S King St Seattle, WA 98104",,"['Hot Pot', 'Chinese']",98104,Chinatown
+419,Lunchbox Laboratory,3.4,1309.0,"1253 Thomas St Seattle, WA 98109",$$,"['Burgers', 'New American']",98109,Queen Anne/South Lake Union
+425,One Pot,4.3,281.0,"506 12th Ave S Seattle, WA 98144",$$,"['Korean', 'Hot Pot', 'Seafood']",98144,Other
+430,Buddha Bruddah,4.2,350.0,"2201 Rainier Ave S Seattle, WA 98144",$$,"['Asian Fusion', 'Thai', 'Hawaiian']",98144,Other
+436,In Pizza We Crust,4.6,54.0,"5600 Roosevelt Way NE Seattle, WA 98105",,"['Pizza', 'Food Trucks']",98105,University District
+440,Nuodle,4.4,15.0,"4245 University Way NE Seattle, WA 98105",,"['Chinese', 'Noodles']",98105,University District
+444,Chawla Indian Cuisine,3.5,25.0,"12716 Lake City Way NE Seattle, WA 98125",,"['Indian', 'Vegetarian', 'Halal']",98125,Northgate
+448,Homer,4.4,323.0,"3013 Beacon Ave S Seattle, WA 98144",,"['Mediterranean', 'Middle Eastern']",98144,Other
+449,Tapas Lab,4.4,261.0,"7012 Woodlawn Ave NE Unit 3B Seattle, WA 98115",$$,"['Tapas/Small Plates', 'Spanish', 'Asian Fusion']",98115,Other
+455,Birrieria Tijuana,4,2.0,"1601 Dexter Ave N Seattle, WA 98109",Unclaimed,"['Tacos', 'Desserts']",98109,Queen Anne/South Lake Union
+459,Vinason Pho Kitchen,4.2,576.0,"2134 Westlake Ave Seattle, WA 98121",$$,"['Sandwiches', 'Vietnamese', 'Soup']",98121,Belltown
+473,Just Like Home Jamaican Kitchen,4.3,33.0,"9625 Renton Ave S Seattle, WA 98118",,"['Caribbean', 'Food Trucks']",98118,Other
+475,Ciudad,4.4,472.0,"6118 12th Ave S Seattle, WA 98108",$$,['Tapas/Small Plates'],98108,Other
+498,Isarn Thai Soul Kitchen,4.3,214.0,"2316 NE 65th St Ste 101 Seattle, WA 98115",$$,"['Noodles', 'Thai', 'Cocktail Bars']",98115,Other
+528,Katsu Ramen,3.9,372.0,"501 N 36th St Seattle, WA 98103",$$,"['Ramen', 'Poke', 'Noodles']",98103,Fremont/Wallingford
+539,Dough Zone,4.2,1189.0,"815 Pine St Seattle, WA 98101",$$,"['Shanghainese', 'Dim Sum', 'Noodles']",98101,Downtown
+548,The Market,4.2,133.0,"1300 1st Ave Seattle Art Museum Seattle, WA 98101",$$,"['Seafood', 'Coffee & Tea']",98101,Downtown
+549,Eight Row,4.4,187.0,"7102 Woodlawn Ave NE Seattle, WA 98115",$$$,"['New American', 'Cocktail Bars', 'Wine Bars']",98115,Other
+568,Aceituno’s Mexican Food,3.1,33.0,"13055 Lake City Way NE Seattle, WA 98125",Unclaimed,['Mexican'],98125,Northgate
+570,Plantiful Superfoods,4.1,17.0,"340 Westlake Ave N Seattle, WA 98109",,"['Pizza', 'Vegan', 'Juice Bars & Smoothies']",98109,Queen Anne/South Lake Union
+578,Made In Taiwan,3.2,62.0,"619 S King St Seattle, WA 98104",$$,"['Bubble Tea', 'Juice Bars & Smoothies']",98104,Chinatown
+587,The Commons,4.3,8.0,"5621 22nd Ave NW Seattle, WA 98107",,['Apartments'],98107,Ballard
+599,Botteco Brazil,4.7,14.0,"15 Nickerson St Seattle, WA 98109",Unclaimed,"['Brazilian', 'Beer Bar', 'Cocktail Bars']",98109,Queen Anne/South Lake Union
+604,A Bit of Aloha,4,841.0,"3004 NE 127th St Seattle, WA 98125",$$,"['Hawaiian', 'Ramen']",98125,Northgate
+610,Super Six,3.9,812.0,"3714 S Hudson St Seattle, WA 98118",$$,"['Asian Fusion', 'Hawaiian', 'New American']",98118,Other
+613,Mojito,4.5,1113.0,"7545 Lake City Way NE Seattle, WA 98115",$$,"['Cuban', 'Colombian', 'Venezuelan']",98115,Other
+638,Pink Salt Restaurant,4.4,144.0,"3321 W McGraw St Seattle, WA 98199",$$$,"['Peruvian', 'Bars', 'Desserts']",98199,Other
+649,Itto’s Tapas,4.5,415.0,"4160 California Ave SW Seattle, WA 98116",$$$,"['Moroccan', 'Tapas Bars', 'Spanish']",98116,Other
+650,Homegrown,4,472.0,"1531 Melrose Ave Seattle, WA 98122",$$,"['Sandwiches', 'Salad', 'Breakfast & Brunch']",98122,Capitol Hill
+661,Archipelago,4.7,86.0,"5607 Rainier Ave S Seattle, WA 98118",$$$$,"['Filipino', 'Noodles', 'Soup']",98118,Other
+669,Toshi’s Teriyaki,3.3,162.0,"9029 25th Ave SW Seattle, WA 98106",Unclaimed,['Japanese'],98106,Other
+671,Cafe Happy,4,44.0,"1408 NE 40th St Seattle, WA 98105",$,"['Bubble Tea', 'Cafes', 'Juice Bars & Smoothies']",98105,University District
+678,Nick’s On Madison,4.6,75.0,"3131 E Madison St Seattle, WA 98112",,"['New American', 'Desserts', 'Salad']",98112,Capitol Hill
+679,Autumn Seattle,4.2,80.0,"6726 Greenwood Ave N Seattle, WA 98103",,"['Modern European', 'Italian', 'Tapas Bars']",98103,Fremont/Wallingford
+682,The Shambles,4.4,259.0,"7777 15th Ave NE Seattle, WA 98115",$$,"['Beer Bar', 'New American']",98115,Other
+683,Bugis,4.3,179.0,"4241 NE University Way Seattle, WA 98105",$$,['Korean'],98105,University District
+691,Ivar’s Seafood Bar,3.8,203.0,"13448 Aurora Ave N Seattle, WA 98133",$$,"['Seafood', 'Fast Food', 'Fish & Chips']",98133,Bitter Lake
+692,Island Soul Rum Bar & Soul Shack,4.1,1032.0,"4869 Rainier Ave S Seattle, WA 98118",$$,"['Caribbean', 'Bars', 'Soul Food']",98118,Other
+703,Beach Cafe,3.2,257.0,"2726 Alki Ave SW Seattle, WA 98116",$$,"['Breakfast & Brunch', 'American']",98116,Other
+713,George’s,3.7,162.0,"411 University St Seattle, WA 98101",,['New American'],98101,Downtown
+739,The Matador,3.7,718.0,"4546 California Ave SW Seattle, WA 98116",$$,"['Mexican', 'Tex-Mex', 'Cocktail Bars']",98116,Other
+751,Meetea Cafe,3.8,76.0,"1424 11th Ave Ste F Seattle, WA 98122",$,"['Bubble Tea', 'Bakeries', 'Cafes']",98122,Capitol Hill
+772,Creperie de Paris,2.5,2.0,"1333 5th Ave Seattle, WA 98101",$$,['Creperies'],98101,Downtown
+837,Blazing Bagels,3.6,215.0,"1911 1st Ave S Seattle, WA 98134",$,"['Bagels', 'Sandwiches']",98134,Other
+847,Yummy Teriyaki,2.9,218.0,"622 1st Ave N Seattle, WA 98109",$,['Japanese'],98109,Queen Anne/South Lake Union
+850,Vinason Pho & Grill,4.2,576.0,"2134 Westlake Ave Seattle, WA 98121",$$,"['Sandwiches', 'Vietnamese', 'Soup']",98121,Belltown
+851,Agave Cocina & Cantina,3.3,419.0,"100 Republican St Ste 100 Seattle, WA 98109",$$,"['Cocktail Bars', 'Mexican', 'Breakfast & Brunch']",98109,Queen Anne/South Lake Union
+852,Boiling Point,3.4,1002.0,"610 5th Ave S Seattle, WA 98104",$$,"['Taiwanese', 'Hot Pot', 'Comfort Food']",98104,Chinatown
+861,Herfy’s Burgers,3.4,91.0,"5963 Corson Ave S Ste 150 Seattle, WA 98108",$,"['Burgers', 'Fast Food', 'New American']",98108,Other
+879,Lunchbox Lab,3.4,1309.0,"1253 Thomas St Seattle, WA 98109",$$,"['Burgers', 'New American']",98109,Queen Anne/South Lake Union
+886,The Original Pancake House,3.6,287.0,"8037 15th Ave NW Seattle, WA 98117",$$,"['Breakfast & Brunch', 'Waffles', 'Juice Bars & Smoothies']",98117,Other
+887,Mediterranean Grill,4.5,171.0,"1712 N 45th St Seattle, WA 98103",,"['Mediterranean', 'Barbeque', 'Sandwiches']",98103,Fremont/Wallingford
+898,Magnuson Cafe & Brewery,3.4,259.0,"7801 62nd Ave NE Seattle, WA 98115",$$,"['Brewpubs', 'Breakfast & Brunch']",98115,Other
+900,Sunny Teriyaki,3.9,157.0,"2035 NW Market St Seattle, WA 98107",Unclaimed,['Japanese'],98107,Ballard
+913,Tokyo Teriyaki,3.4,149.0,"803 E Pike St Seattle, WA 98122",Unclaimed,"['Japanese', 'Korean']",98122,Capitol Hill
+925,Sand Point Grill,3.9,151.0,"5412 Sand Point Way NE Seattle, WA 98105",$$,"['New American', 'Cocktail Bars']",98105,University District
+927,People Of The Chubbs,4.1,56.0,"6031 Airport Way S Seattle, WA 98108",$,"['Food Trucks', 'New American']",98108,Other
+931,Simply Soulful,4.2,411.0,"2321 S Jackson St Seattle, WA 98144",Unclaimed,"['Desserts', 'Soul Food', 'Southern']",98144,Other
+932,Potbelly Sandwich Shop,3.4,110.0,"1208 Madison St Ste 121 Seattle, WA 98104",$,"['Sandwiches', 'Fast Food', 'Salad']",98104,Chinatown
+948,Seoul Fried Chicken,4.4,157.0,"722 12th ave Seattle, WA 98122",$$,"['Food Trucks', 'Korean']",98122,Capitol Hill
+949,Little Duck,4,126.0,"4100 Roosevelt Way NE Unit B Seattle, WA 98105",Unclaimed,['Chinese'],98105,University District
+970,Pop Pop Thai Street Food,4.3,709.0,"13242 Aurora Ave N Ste 104 Seattle, WA 98133",$$,"['Thai', 'Noodles']",98133,Bitter Lake
+978,Elliott Bay Public House & Brewery,3.9,635.0,"12537 Lake City Way NE Seattle, WA 98125",$$,"['American', 'Brewpubs', 'Tapas/Small Plates']",98125,Northgate
+983,Sultan Gyro and Shawarma Grill,4.1,184.0,"4222 University Way NE Seattle, WA 98105",Unclaimed,"['Mediterranean', 'Salad', 'Sandwiches']",98105,University District
+984,Saltoro,4,329.0,"14051 Greenwood Ave N Seattle, WA 98133",$$,"['Italian', 'American', 'Coffee & Tea']",98133,Bitter Lake
+986,Friendship Foods BBQ,4.7,188.0,"13520 Aurora Ave N Seattle, WA 98133",$$,"['Barbeque', 'Seafood', 'Chinese']",98133,Bitter Lake
+992,Beyond The Bowl,4.5,259.0,"12518 Lake City Way NE Seattle, WA 98125",$$,"['Poke', 'Japanese', 'Desserts']",98125,Northgate
+994,Tasty Pot,3.8,94.0,"4509 University Way NE Seattle, WA 98105",$$,"['Taiwanese', 'Bubble Tea', 'Hot Pot']",98105,University District
+998,The Maple,4,310.0,"8929 Roosevelt Way NE Seattle, WA 98115",$$,"['Breakfast & Brunch', 'American', 'Cocktail Bars']",98115,Other
+1000,Umami Burger,2.6,18.0,"825 NE Northgate Way Seattle, WA 98125",Unclaimed,['Burgers'],98125,Northgate
+1001,Santa Fe Mexican Grill & Cantina,4.1,43.0,"9747 4th Ave NW Seattle, WA 98117",$$,['Mexican'],98117,Other
+1003,Little Ting’s Dumplings,3.8,402.0,"14411 Greenwood Ave N Seattle, WA 98133",$$,"['Chinese', 'Soup', 'Salad']",98133,Bitter Lake
+1013,Yuan Bao,4.7,32.0,"12716 Lake City Way NE Seattle, WA 98125",,"['Taiwanese', 'Bubble Tea']",98125,Northgate
+1017,Mount&Bao,3.9,258.0,"12534 Lake City Way NE Seattle, WA 98125",$$,"['Chinese', 'Noodles']",98125,Northgate
+1018,Toyoda Sushi,3.9,407.0,"12543 Lake City Way NE Seattle, WA 98125",Unclaimed,"['Sushi Bars', 'Japanese']",98125,Northgate
+1021,HK Dim Sum,3.2,491.0,"13200 Aurora Ave N Ste F Seattle, WA 98133",Unclaimed,"['Dim Sum', 'Cantonese']",98133,Bitter Lake
+1022,Kiriba Sushi,4.1,273.0,"323 N 145th St Seattle, WA 98133",Unclaimed,"['Japanese', 'Sushi Bars']",98133,Bitter Lake
+1024,The Greek Kitchen,3.5,46.0,"401 NE Northgate Way Seattle, WA 98125",$$,"['Greek', 'Middle Eastern', 'Mediterranean']",98125,Northgate
+1025,Valhalla Sandwiches,4.7,397.0,"8202 Greenwood Ave N Seattle, WA 98103",$$,['Sandwiches'],98103,Fremont/Wallingford
+1026,Zylberschtein’s Delicatessen & Bakery,3.9,325.0,"11752 15th Ave NE Seattle, WA 98125",$$,"['Bakeries', 'Bagels', 'Custom Cakes']",98125,Northgate
+1028,No.9 Alley Hot Pot,4,208.0,"930 N 130th St Seattle, WA 98133",$$$,"['Hot Pot', 'Szechuan', 'Buffets']",98133,Bitter Lake
+1029,Szechuan Cuisine,4,738.0,"1048 S Jackson St Seattle, WA 98104",$$,"['Szechuan', 'Hot Pot', 'Noodles']",98104,Chinatown
+1043,Don Lucho’s Restaurant & Pisco Bar,4.4,348.0,"7919 Roosevelt Ave NE Seattle, WA 98115",$$,"['Peruvian', 'Sandwiches', 'Desserts']",98115,Other
+1044,Rain Cafe,3.6,436.0,"13200 Aurora Avenue N Ste C Seattle, WA 98133",Unclaimed,"['Coffee & Tea', 'Bubble Tea', 'Asian Fusion']",98133,Bitter Lake
+1050,Pizzeria La Rocca,4.5,136.0,"8404 Greenwood Ave N Seattle, WA 98103",$$,"['Pizza', 'Coffee & Tea', 'Breakfast & Brunch']",98103,Fremont/Wallingford
+1051,El Parche Colombiano Restaurant,4.2,97.0,"11740 15th Ave NE Seattle, WA 98125",$$,['Colombian'],98125,Northgate
+1053,Thai Bistro,3.1,322.0,"323 NE Thornton Pl Seattle, WA 98125",Unclaimed,['Thai'],98125,Northgate
+1054,Indo Cafe,4.2,325.0,"13754 Aurora Ave N Seattle, WA 98133",$$,['Indonesian'],98133,Bitter Lake
+1055,Casa Del Mariachi,4.7,88.0,"12327 Roosevelt Way NE Seattle, WA 98125",$$,['Mexican'],98125,Northgate
+1064,Wonton Noodle House,4,344.0,"608 S Weller St Seattle, WA 98104",Unclaimed,"['Cantonese', 'Noodles']",98104,Chinatown
+1066,The Unique Cafe & Wine,4.5,48.0,"12319 Roosevelt Way NE Seattle, WA 98125",$$,"['Pizza', 'Italian', 'Desserts']",98125,Northgate
+1068,Saffron Grill,4,1523.0,"2132 N Northgate Way Seattle, WA 98133",$$,"['Indian', 'Mediterranean', 'Cocktail Bars']",98133,Bitter Lake
+1071,V House Noodle,4.5,19.0,"12752 Aurora Ave N Seattle, WA 98133",,"['Vietnamese', 'Noodles', 'Bubble Tea']",98133,Bitter Lake
+1072,Man’oushe Express,4.5,196.0,"13721 Lake City Way NE Level A Seattle, WA 98125",$,"['Pizza', 'Sandwiches', 'Salad']",98125,Northgate
+1074,Taqueria Sotelo,4.2,18.0,"828 Rainier Ave S Seattle, WA 98144",Unclaimed,"['Food Trucks', 'Mexican']",98144,Other
+1076,Shi Qu Restaurant,3.9,512.0,"5310 Ballard Ave NW Seattle, WA 98107",Unclaimed,"['Sushi Bars', 'Lounges', 'Japanese']",98107,Ballard
+1077,Alibertos,3.3,91.0,"2425 4th Ave S Seattle, WA 98134",Unclaimed,['Mexican'],98134,Other
+1083,Asian Pho,4.2,493.0,"415 7th Ave S Seattle, WA 98104",$$,"['Vietnamese', 'Noodles']",98104,Chinatown
+1084,Loxicha Authentic Oaxaca Cuisine,4.6,125.0,"11552 15th Ave NE Seattle, WA 98125",Unclaimed,"['Food Trucks', 'Mexican']",98125,Northgate
+1086,Soprano’s Pizza & Pasta,3.3,210.0,"7729 24th Ave NW Seattle, WA 98117",$$,"['Pizza', 'Italian', 'Sandwiches']",98117,Other
+1087,2C Thai Bistro & Spirits,4.4,384.0,"12506 Lake City Way NE Seattle, WA 98125",$$,['Thai'],98125,Northgate
+1090,Sunny Hill,4.4,120.0,"3127 NW 85th St Seattle, WA 98117",$$,"['Pizza', 'Burgers']",98117,Other
+1092,Wow Bao,1.5,28.0,"3601 Fremont Ave N Seattle, WA 98103",,['Food Delivery Services'],98103,Fremont/Wallingford
+1094,Ban Hua Sai,4.3,189.0,"9400 Roosevelt Way NE Seattle, WA 98115",$$,"['Thai', 'Asian Fusion']",98115,Other
+1095,Jebena Cafe,4.6,490.0,"1510 NE 117th St Seattle, WA 98125",$$,['Ethiopian'],98125,Northgate
+1100,The Habit Burger Grill,2.6,113.0,"3501 SW Avalon Way Seattle, WA 98126",,"['Burgers', 'Salad', 'Sandwiches']",98126,Other
+1104,Teriyaki & Pho,3.1,94.0,"13027 Aurora Ave N Seattle, WA 98133",Unclaimed,['Japanese'],98133,Bitter Lake
+1105,Green Tree,4.5,221.0,"8576 Greenwood Ave N Seattle, WA 98103",$$,"['Vietnamese', 'Chinese']",98103,Fremont/Wallingford
+1108,Yummy Teriyaki & Fried Chicken,2.9,218.0,"622 1st Ave N Seattle, WA 98109",$,['Japanese'],98109,Queen Anne/South Lake Union
+1109,Buerjia Chinese Sauerkraut Fish,3.9,34.0,"13200 Aurora Ave N Seattle, WA 98133",,"['Szechuan', 'Seafood']",98133,Bitter Lake
+1110,Kuan & Zhai Alley,3.7,103.0,"14409 Greenwood Ave N Seattle, WA 98133",$$,"['Seafood', 'Soup', 'Hot Pot']",98133,Bitter Lake
+1111,Nori Presto,4.2,226.0,"12354 15th Ave NE Seattle, WA 98125",$,"['Japanese', 'Chinese', 'Sushi Bars']",98125,Northgate
+1116,Anita’s Mexican Food,4.4,82.0,"12245 Aurora Ave N Seattle, WA 98133",$,"['Food Trucks', 'Mexican']",98133,Bitter Lake
+1118,The Thirsty Fish,3.9,116.0,"9041 Holman Rd NW Seattle, WA 98117",Unclaimed,"['New American', 'Sports Bars', 'Breakfast & Brunch']",98117,Other
+1119,Old Village,3.3,501.0,"15200 Aurora Ave N Ste D Seattle, WA 98133",$$,"['Korean', 'Barbeque']",98133,Bitter Lake
+1123,Cafe Banh Mi,4.6,113.0,"10700 Meridian Ave N Ste 106 Seattle, WA 98133",$,"['Cafes', 'Sandwiches', 'Vietnamese']",98133,Bitter Lake
+1124,Mekong Village,4,410.0,"12020 Aurora Ave N Seattle, WA 98133",$$,"['Vietnamese', 'Noodles', 'Sandwiches']",98133,Bitter Lake
+1125,Bangkok Food Truck,4.8,60.0,"13001 Lake City Way NE Seattle, WA 98125",$,"['Thai', 'Coffee & Tea', 'Noodles']",98125,Northgate
+1127,Heaven Sent Fried Chicken,3.3,289.0,"14330 Lake City Way NE Seattle, WA 98125",$$,"['Southern', 'Soul Food', 'Fast Food']",98125,Northgate
+1129,Sunflower Garden,4.7,72.0,"10410 Greenwood Ave N Ste A Seattle, WA 98133",,"['Chinese', 'Soup', 'Chicken Wings']",98133,Bitter Lake
+1134,Happy Lemon,3.6,136.0,"2245 8th Ave Ste R1-1A Seattle, WA 98121",$,"['Bubble Tea', 'Juice Bars & Smoothies', 'Waffles']",98121,Belltown
+1136,Famous Dave’s Bar-B-Que,3.5,22.0,"401 NE Northgate Way Ste 1106 Seattle, WA 98125",,"['Food Delivery Services', 'Comfort Food', 'Barbeque']",98125,Northgate
+1137,O Maki Rolls & Teriyaki,4.2,103.0,"8530 Palatine Ave N Seattle, WA 98103",$$,"['Japanese', 'Sushi Bars']",98103,Fremont/Wallingford
+1138,Grumpy’s Food Truck,4.3,125.0,"5401 17th Ave Seattle, WA 98107",$,"['Mexican', 'Food Trucks']",98107,Ballard
+1139,North Star Diner & Shanghai Room,3.8,354.0,"8580 Greenwood Ave N Seattle, WA 98103",$$,"['Bars', 'Diners', 'Breakfast & Brunch']",98103,Fremont/Wallingford
+1143,Chick-fil-A,2.9,130.0,"12801 Aurora Ave N Seattle, WA 98133",,"['Fast Food', 'Chicken Shop', 'Sandwiches']",98133,Bitter Lake
+1144,El Patio,3.9,59.0,"9710 Aurora Ave N Seattle, WA 98103",,"['Latin American', 'Salad', 'Seafood']",98103,Fremont/Wallingford
+1149,Tubs Gourmet Subs,4.3,561.0,"11064 Lake City Way NE Ste 16 Seattle, WA 98125",$$,['Sandwiches'],98125,Northgate
+1152,Stanford’s Northgate,3.2,575.0,"401 NE Northgate Way Ste 1106 Seattle, WA 98125",$$,"['American', 'Seafood', 'Steakhouses']",98125,Northgate
+1155,Pho Ha,3.1,83.0,"6519 4th Ave S Ste B Seattle, WA 98108",$,"['Vietnamese', 'Noodles', 'Thai']",98108,Other
+1161,Lake City Gyros,4.4,236.0,"12340 Lake City Way NE Seattle, WA 98125",Unclaimed,"['Middle Eastern', 'Mediterranean', 'Greek']",98125,Northgate
+1162,Ichi Roll Wok & Teriyaki,4.1,134.0,"306 N 125th St Seattle, WA 98133",$$,"['Sushi Bars', 'Japanese', 'Chinese']",98133,Bitter Lake
+1164,Wild Mountain Cafe,4.1,530.0,"1408 NW 85th St Seattle, WA 98117",$$,"['American', 'Breakfast & Brunch']",98117,Other
+1166,Santorini Pizza & Pasta,4.1,105.0,"11001 35th Ave NE Seattle, WA 98125",$$,"['Pizza', 'Italian', 'Sandwiches']",98125,Northgate
+1167,Thai Greenwood,4.1,107.0,"14419 Greenwood Ave N Ste C Seattle, WA 98133",$$,"['Thai', 'Bars', 'Noodles']",98133,Bitter Lake
+1168,Pho An,4.2,501.0,"12526 Lake City Way NE Seattle, WA 98125",$,"['Vietnamese', 'Noodles']",98125,Northgate
+1169,Greenwood Flame Burger,3.9,59.0,"10410 Greenwood Ave N Ste B Seattle, WA 98133",,"['Burgers', 'Halal', 'Chicken Wings']",98133,Bitter Lake
+1170,Fuji Teppanyaki & Sushi,3.8,602.0,"520 S Main St Seattle, WA 98104",$$,"['Sushi Bars', 'Japanese']",98104,Chinatown
+1171,Las Margaritas,3.4,207.0,"14356 Aurora Ave N Seattle, WA 98133",$$,"['Mexican', 'Cocktail Bars']",98133,Bitter Lake
+1172,Chada Thai Restaurant,4.1,265.0,"308 N 125th St Seattle, WA 98133",$$,"['Thai', 'Noodles', 'Vegetarian']",98133,Bitter Lake
+1174,Nasai Teriyaki,3.3,133.0,"4305 University Way N E Seattle, WA 98105",Unclaimed,['Japanese'],98105,University District
+1176,Best Teriyaki,3.3,84.0,"2445 4th Ave S Seattle, WA 98134",$,['Japanese'],98134,Other
+1179,Cafe Munir,4.1,340.0,"2408 NW 80th St Seattle, WA 98117",$$,['Lebanese'],98117,Other
+1180,Korean Fried Chicken,4.2,76.0,"810 Rainier Ave S Seattle, WA 98144",,"['Asian Fusion', 'Korean', 'Vietnamese']",98144,Other
+1181,Country Fried Chicken,2.5,8.0,"14314 Greenwood Ave N Seattle, WA 98133",Unclaimed,"['Fast Food', 'Chicken Wings']",98133,Bitter Lake
+1183,Luna Azul,4.3,212.0,"8552 Greenwood Ave N Seattle, WA 98103",$$,"['Mexican', 'Latin American', 'Beer Bar']",98103,Fremont/Wallingford
+1185,Teriyaki Plus,3.7,81.0,"2100 N Northgate Way Ste B Seattle, WA 98133",$,['Japanese'],98133,Bitter Lake
+1186,Thai Family Restaurant,3.7,243.0,"2515 NE 55th St Seattle, WA 98105",$$,['Thai'],98105,University District
+1187,Gangnam Korean Restaurant,4.3,62.0,"516 6th Ave S Seattle, WA 98104",$$,"['Korean', 'Barbeque', 'Chicken Shop']",98104,Chinatown
+1188,Wet -Mex,3.5,11.0,"1109 N 35th St Seattle, WA 98103",,"['Art Classes', 'Paint-Your-Own Pottery']",98103,Fremont/Wallingford
+1193,Ahadu Ethiopian Restaurant,4.5,99.0,"1508 NE 117th St Seattle, WA 98125",$$,['Ethiopian'],98125,Northgate
+1194,Watershed Pub & Kitchen,3.7,464.0,"10104 3rd Ave NE Seattle, WA 98125",$$,"['Pubs', 'Pizza', 'Breakfast & Brunch']",98125,Northgate
+1195,Flying Squirrel Pizza,3.5,167.0,"5701 Airport Way S Ste A Seattle, WA 98108",$$,"['Pizza', 'Bars']",98108,Other
+1196,Baja Tacos & Beer Mexican Restaurant,3.9,227.0,"9211 Holman Rd NW Seattle, WA 98117",$$,['Mexican'],98117,Other
+1199,A1 Hop Shop 144th,4.7,24.0,"14401 Greenwood Ave N Seattle, WA 98133",$,"['Beer Bar', 'Sports Bars', 'Pizza']",98133,Bitter Lake
+1234,Dumpling House,4.2,1189.0,"815 Pine St Seattle, WA 98101",$$,"['Shanghainese', 'Dim Sum', 'Noodles']",98101,Downtown
+1262,9 Delicacies,4.1,166.0,"5020 Rainer Ave S Seattle, WA 98118",$$,['Thai'],98118,Other
+1264,Carniceria Michoacan,4.4,247.0,"2500 Beacon Ave S Seattle, WA 98144",$$,"['Tacos', 'Latin American']",98144,Other
+1305,The Rock Wood Fired Pizza,3.4,302.0,"300 Roy St Ste 101 Seattle, WA 98109",$$,"['Bars', 'Pizza', 'American']",98109,Queen Anne/South Lake Union
+1314,The Old Spaghetti Factory,3,357.0,"2801 Elliott Ave Seattle, WA 98121",$$,['Italian'],98121,Belltown
+1327,Nuevo Amanecer Pupuseria,4.5,2.0,"8709 14th Ave S Seattle, WA 98108",,"['Salvadoran', 'Mexican']",98108,Other
+1330,Anthony’s Seafood Grill,3.5,730.0,"2201 Alaskan Way Seattle, WA 98121",$$$,['Seafood'],98121,Belltown
+1342,China Cafe,5,3.0,"2701 Beacon Ave S Seattle, WA 98144",Unclaimed,['Chinese'],98144,Other
+1349,Noodle House,4,1412.0,"418 Maynard Ave S Seattle, WA 98104",$$,"['Cantonese', 'Noodles']",98104,Chinatown
+1365,Olive Garden Italian Restaurant,3.5,2.0,"300 NE Northgate Way Seattle, WA 98125",,['Italian'],98125,Northgate
+1375,MOD Pizza,3.8,740.0,"1302 6th Ave Seattle, WA 98101",$$,"['Pizza', 'Fast Food']",98101,Downtown
+1378,Zeek’s Pizza,3.6,814.0,"419 Denny Way Seattle, WA 98109",$$,"['Pizza', 'Beer Bar']",98109,Queen Anne/South Lake Union
+1393,The College Cafe,3.9,180.0,"4006 University Way NE Seattle, WA 98105",$,['Pubs'],98105,University District
+1403,A Burger Place,4,192.0,"4234 University Way NE Seattle, WA 98105",$,['Burgers'],98105,University District
+1411,P.F. Chang’s,2.8,443.0,"400 Pine St Ste 136 Seattle, WA 98101",$$,"['Chinese', 'Asian Fusion', 'Gluten-Free']",98101,Downtown
+1414,Claire’s Restaurant,2.8,42.0,"12360 Lake City Way NE Seattle, WA 98125",$$,"['Restaurants', 'Bars', 'Karaoke']",98125,Northgate
+1422,Dick’s Drive-In,3.5,1310.0,"115 Broadway E Seattle, WA 98102",$,"['Burgers', 'Fast Food', 'Ice Cream & Frozen Yogurt']",98102,Capitol Hill
+1424,Piroshky & Crepes,4.3,7560.0,"1908 Pike Pl Seattle, WA 98101",$,"['Bakeries', 'Russian']",98101,Downtown
+1427,Buffalo Wild Wings,2.4,538.0,"1624 4th Ave Seattle, WA 98101",$$,"['Chicken Wings', 'Sports Bars', 'American']",98101,Downtown
+1431,Asian Pho,4,352.0,"3414 Fremont Ave N Seattle, WA 98103",$$,"['Vietnamese', 'Noodles', 'Sandwiches']",98103,Fremont/Wallingford
+1433,Romeo’s Restaurant & Pizzeria,4.1,107.0,"1011 Pike St Seattle, WA 98101",Unclaimed,"['Pizza', 'Pubs', 'Salad']",98101,Downtown
+1437,Shawn O’Donnell’s American Grill & Irish Pub,4.6,189.0,"3601 Fremont Ave N Seattle, WA 98103",$$,"['Irish Pub', 'New American', 'Fish & Chips']",98103,Fremont/Wallingford
+1440,Asadero Sinaloa,4.4,1239.0,"5405 Leary Ave NW Seattle, WA 98107",$$,"['Mexican', 'Steakhouses']",98107,Ballard
+1452,Fire Tacos De Birria,3.9,124.0,"2738 Alki Ave SW Seattle, WA 98116",$$,['Tacos'],98116,Other
+1454,Boiling Crawfish,3.5,764.0,"725 S Lane St Seattle, WA 98104",$$,"['Cajun/Creole', 'Seafood', 'Bars']",98104,Chinatown
+1472,Olive Tree Mediterranean Restaurant,4.5,93.0,"340 15th Ave E Ste 201 Seattle, WA 98112",$$,"['Mediterranean', 'Middle Eastern', 'Greek']",98112,Capitol Hill
+1475,Poké Bar,4.7,1006.0,"220 Blanchard St Seattle, WA 98121",$$,"['Poke', 'Salad', 'Hawaiian']",98121,Belltown
+1476,Kingwuu,3.9,651.0,"615 S King St Seattle, WA 98104",Unclaimed,"['Noodles', 'Cantonese', 'Soup']",98104,Chinatown
+1497,Tropical Hut Restaurant,3.9,8.0,"5723 Rainier Ave S Seattle, WA 98118",Unclaimed,['Filipino'],98118,Other
+1501,Aceituno’s,3.1,33.0,"13055 Lake City Way NE Seattle, WA 98125",Unclaimed,['Mexican'],98125,Northgate
+1507,Birrieria Monarca,4,1.0,"2504 Alki Ave SW Seattle, WA 98116",Unclaimed,"['Food Trucks', 'Mexican']",98116,Other
+1514,Indian Bistro,3.7,408.0,"2301 NW Market St Seattle, WA 98107",$$,"['Indian', 'Buffets']",98107,Ballard
+1522,Anthony’s HomePort,3.3,181.0,"6135 Seaview Ave NW Ste 2B Seattle, WA 98107",$$,['Seafood'],98107,Ballard
+1534,13 Coins Restaurant,3.2,743.0,"255 S King St Seattle, WA 98104",$$,"['American', 'Bars', 'Breakfast & Brunch']",98104,Chinatown
+1557,Jumpin Jambalaya,4.7,9.0,"4116 Rainer Ave S Seattle , WA 98118",,"['Cajun/Creole', 'Seafood']",98118,Other
+1583,Pho Lam,4.5,233.0,"1010 NE 66th St Seattle, WA 98115",$$,['Vietnamese'],98115,Other
+1585,Sumo Sushi,3.7,96.0,"219 Broadway E Ste 18 Seattle, WA 98102",,"['Sushi Bars', 'Japanese', 'Noodles']",98102,Capitol Hill
+1603,Crawfish House,4.1,879.0,"9826 16th Ave SW Seattle, WA 98106",$$$,"['Cajun/Creole', 'Seafood']",98106,Other
+1616,Amante Pizza & Pasta,3,38.0,"2122 W Emerson Pl Seattle, WA 98199",$$,"['Pizza', 'Italian']",98199,Other
+1624,Paparepas,4.2,65.0,"1620 Broadway Ste 100 E Seattle, WA 98122",Unclaimed,"['Venezuelan', 'Vegan', 'Gluten-Free']",98122,Capitol Hill
+1625,Arashi Ramen,4.3,476.0,"5401 20th Ave NW Seattle, WA 98107",$$,"['Ramen', 'Noodles', 'Izakaya']",98107,Ballard
+1630,Sizzle & Crunch Vietnamese Grill,4.2,478.0,"1313 NE 42nd St Seattle, WA 98105",$$,"['Vietnamese', 'Sandwiches', 'Asian Fusion']",98105,University District
+1635,Lola’s Cuisine,4.1,4299.0,"2000 B 4th Ave Seattle, WA 98121",$$,"['Greek', 'Breakfast & Brunch']",98121,Belltown
+1638,Apsara Palace Restaurant,4.5,40.0,"9808 14th Ave SW Seattle, WA 98106",,"['Asian Fusion', 'Cambodian']",98106,Other
+1640,Kilimanjaro Restaurant and Cafe,4.8,27.0,"16006 B International Blvd Seattle, WA 98188",,"['African', 'Asian Fusion']",98188,Other
+1644,Macrina Bakery & Cafe,4,1091.0,"2408 1st Ave Seattle, WA 98121",$$,"['Bakeries', 'Cafes', 'Patisserie/Cake Shop']",98121,Belltown
+1651,Tomo,3.7,123.0,"9811 16th Ave SW Seattle, WA 98106",$$$$,"['New American', 'Bars', 'Seafood']",98106,Other
+1652,Chopsticks,3.8,209.0,"7347 35th Ave NE Ste A Seattle, WA 98115",$$,['Chinese'],98115,Other
+1654,Mom’s Kitchen,5,4.0,"400 Pine St Seattle, WA 98101",,['Indian'],98101,Downtown
+1655,Wingstop,2.9,117.0,"10002 Aurora Ave N Ste 42 Seattle, WA 98133",$$,['Chicken Wings'],98133,Bitter Lake
+1661,Hachi-ko,3.4,73.0,"17801 International Blvd Seattle, WA 98158",Unclaimed,"['Sushi Bars', 'Japanese', 'Breakfast & Brunch']",98158,Other
+1666,Mochinut Southcenter,3.6,119.0,"2800 South Center Mall Ste FC12 Seattle, WA 98188",,"['Donuts', 'Hot Dogs', 'Bubble Tea']",98188,Other
+1671,Hot Pho,3.8,202.0,"1414 2nd Ave Seattle, WA 98101",$$,['Vietnamese'],98101,Downtown
+1676,IHOP,3.3,288.0,"950 E Madison St Seattle, WA 98122",$$,"['American', 'Breakfast & Brunch', 'Burgers']",98122,Capitol Hill
+1702,8ight,4.4,187.0,"7102 Woodlawn Ave NE Seattle, WA 98115",$$$,"['New American', 'Cocktail Bars', 'Wine Bars']",98115,Other
+1723,Chebogz Filipino Food Truck,4.8,41.0,"2710 Beacon Ave S Seattle, WA 98144",Unclaimed,['Filipino'],98144,Other
+1729,Pho My Chau 2,3.6,105.0,"7101 Martin Luther King Jr Way S Ste 201 Seattle, WA 98118",Unclaimed,"['Vietnamese', 'Noodles']",98118,Other
+1768,Vince’s Italian Restaurant & Pizzeria,3.5,38.0,"8824 Renton Ave S Seattle, WA 98118",$$,"['Pizza', 'Italian']",98118,Other
+1779,Gyros House,3.6,116.0,"2355 10th Ave E Seattle, WA 98102",$,"['Greek', 'Mediterranean', 'Halal']",98102,Capitol Hill
+1787,Pecos Pit Bar-b-que,4,475.0,"2260 1st Ave S Seattle, WA 98134",$$,['Barbeque'],98134,Other
+1798,BobaLust,4.4,40.0,"4553 University Way NE Seattle, WA 98105",$,"['Bubble Tea', 'Cafes', 'Juice Bars & Smoothies']",98105,University District
+1799,Pick-Quick Drive In,3.6,227.0,"2990 4th Ave S Seattle, WA 98134",$,"['Fast Food', 'Burgers', 'Ice Cream & Frozen Yogurt']",98134,Other
+1806,Pho Tai,3.7,100.0,"1521 SW 98th St Ste A Seattle, WA 98106",$,"['Vietnamese', 'Noodles', 'Salad']",98106,Other
+1808,Oddfellas Pub & Eatery,3.8,1472.0,"1525 10th Ave Seattle, WA 98122",$$,"['Breakfast & Brunch', 'New American', 'Cafes']",98122,Capitol Hill
+1828,Puerto Vallarta Restaurant,2.8,288.0,"4727 California Ave SW Seattle, WA 98116",$$,['Mexican'],98116,Other
+1834,Five Guys,3.1,109.0,"1500 NW Market St Seattle, WA 98107",$$,"['Fast Food', 'Burgers', 'Hot Dogs']",98107,Ballard
+1847,Azteca Mexican Restaurant,3.1,212.0,"401 NE Northgate Way Sp 9168 Seattle, WA 98125",$$,['Mexican'],98125,Northgate
+1853,Basil Thai Restaurant,4.1,198.0,"352 Roy St Seattle, WA 98109",$$,['Thai'],98109,Queen Anne/South Lake Union
+1855,Ladybug Bikini Espresso,2.6,35.0,"2901 4th Ave S Seattle, WA 98134",Unclaimed,['Coffee & Tea'],98134,Other
+1858,Pho Saigon Garden,3.6,115.0,"1016 Madison St Seattle, WA 98104",$$,"['Vietnamese', 'Asian Fusion', 'Beer, Wine & Spirits']",98104,Chinatown
+1868,Maharaj Cuisine Of India,3.8,621.0,"4542 California Ave SW Seattle, WA 98116",$$,['Indian'],98116,Other
+1871,H Mart Restaurant,4.2,73.0,"1601 2nd Ave Seattle, WA 98101",$$,"['International Grocery', 'Korean']",98101,Downtown
+1875,Ichi Teriyaki,4.1,134.0,"306 N 125th St Seattle, WA 98133",$$,"['Sushi Bars', 'Japanese', 'Chinese']",98133,Bitter Lake
+1880,Pho Bach Vietnamese Restaurant,3.7,177.0,"1923 7th Ave Seattle, WA 98101",$$,"['Noodles', 'Vietnamese', 'Cocktail Bars']",98101,Downtown
+1886,Tides,4.6,278.0,"401 N 36th St Ste 103 Seattle, WA 98103",$$,"['Seafood', 'Sandwiches', 'Salad']",98103,Fremont/Wallingford
+1902,Happy Teriyaki,2.5,55.0,"823 3rd Ave Ste 109 Seattle, WA 98104",$,['Japanese'],98104,Chinatown
+1905,Mediterranean Salad and Grill,4.5,171.0,"1712 N 45th St Seattle, WA 98103",,"['Mediterranean', 'Barbeque', 'Sandwiches']",98103,Fremont/Wallingford
+1914,Chipotle Mexican Grill,2.9,255.0,"1501 4th Ave Seattle, WA 98101",$,"['Mexican', 'Fast Food']",98101,Downtown
