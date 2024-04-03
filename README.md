@@ -22,10 +22,13 @@ We note that this data is observational in nature, and may be thought of as the 
 This repository contains three subfolders with data and code:
 
 1.) data
+    
     Data contains all of the raw and processed data files from the webscraping, cleaning, and merging
 
 2.) preprocessing
+    
     Preprocessing contains two notebooks, one that loads and cleans each raw data file, and another that merges the three cleaned data files together.
 
 3.) analysis
+    
     Analysis contains a few notebooks containing the statistical analysis code for the specific questions we answered in this analysis.
