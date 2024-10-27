@@ -29,12 +29,5 @@ Preprocessing contains two notebooks, one that loads and cleans each raw data fi
 Analysis contains a few notebooks containing the statistical analysis code for the specific questions we answered in this analysis.
 
 # Creators
-Alex Netzley
-
-Jake Flynn
-
-Edouard Seryozhenkov 
-
-Mark Daniel
-
-Elliott Sanger
+This project was developed by the following members of the UW MSDS '25 cohort:
+Alex Netzley, Jake Flynn, Edouard Seryozhenkov, Mark Daniel, Elliott Sanger
