@@ -30,7 +30,11 @@ Analysis contains a few notebooks containing the statistical analysis code for t
 
 # Creators
 Alex Netzley
+
 Jake Flynn
+
 Edouard Seryozhenkov 
+
 Mark Daniel
+
 Elliott Sanger
