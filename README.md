@@ -30,4 +30,5 @@ Analysis contains a few notebooks containing the statistical analysis code for t
 
 # Creators
 This project was developed by the following members of the UW MSDS '25 cohort:
+
 Alex Netzley, Jake Flynn, Edouard Seryozhenkov, Mark Daniel, Elliott Sanger
