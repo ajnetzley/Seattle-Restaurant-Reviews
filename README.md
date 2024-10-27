@@ -27,3 +27,10 @@ Preprocessing contains two notebooks, one that loads and cleans each raw data fi
 3.) analysis
     
 Analysis contains a few notebooks containing the statistical analysis code for the specific questions we answered in this analysis.
+
+# Creators
+Alex Netzley
+Jake Flynn
+Edouard Seryozhenkov 
+Mark Daniel
+Elliott Sanger
